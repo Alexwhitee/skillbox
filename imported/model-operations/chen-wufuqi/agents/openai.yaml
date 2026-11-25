@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chen 用量报表"
+  short_description: "查询 NewAPI 用量报表服务，检查同步状态并导出明细或汇总"
+  default_prompt: "使用 $chen-wufuqi，查询指定项目和北京时间范围的用量报表，按需导出明细或汇总。"

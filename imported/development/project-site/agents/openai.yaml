@@ -1,0 +1,4 @@
+interface:
+  display_name: "双语项目介绍站"
+  short_description: "基于真实项目设计有辨识度的中英文介绍站和使用手册，可部署到 Cloudflare Pages"
+  default_prompt: "使用 $project-site 为当前项目制作可切换中英文的介绍站和使用手册，并验证桌面与手机预览。"

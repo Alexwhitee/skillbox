@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chen 用量采集"
+  short_description: "通过网站会话采集 Aimass 与 NewAPI 用量日志并导出数据"
+  default_prompt: "使用 $chen-datapaqu，按指定站点、北京时间范围和筛选条件采集用量记录并导出。"
